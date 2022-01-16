@@ -13,7 +13,7 @@
     This model preicts mpg of MechaCar prototypes relatively because we have a R squared value of ~0.72.
 
 </div>
-<img src ="images/multiple.PNG"></img></br></br>
+<img src ="images/Multiple.PNG"></img></br></br>
 
 <h2>Summary statistics on Suspension Coils</h2>
 <div>
@@ -23,8 +23,8 @@
     However, when the suspension data grouped by manufacturing lots, only lots one and two meet design specifications. Lot three's variance is 170.3, which exceeds our limit. Thus, Lot three is not up to specifications and requires inspection. (See images below for more details).
 
 </div>
-<img src ="images/total_summary.PNG"></img></br>
-<img src ="images/lot_summary.PNG"></img></br></br>
+<img src ="images/Total_Summary.PNG"></img></br>
+<img src ="images/Lot_Summary.PNG"></img></br></br>
 
 <h2>T-Tests on Suspension Coils</h2>
 <div>
